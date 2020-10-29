@@ -1,0 +1,55 @@
+.list-task{
+    color: #ffffff;
+    width: 70%;
+    background-color: #bf07ac;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.list-task p{
+    margin-top: 3px;
+    padding: 10px;
+    position: relative;
+}
+
+.list-task p span{
+    position: absolute;
+    right: 30px;
+    cursor: pointer;
+}
+
+.faicons{
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+.inline{
+    display: flex;
+}
+
+.list-task p input{
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    color: #ffffff; 
+    font-size: 16px;
+}
+
+span{
+    color: #ffffff;
+}
+
+.timer{
+    border: 1px solid mediumseagreen;
+    background-color: mediumseagreen;
+    width: 100px;
+    margin-top: 3px;
+    padding: 16px;
+    border-radius: 2px;
+}
+
+.cmn-margin{
+    padding: 14px;
+}

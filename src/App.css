@@ -1,0 +1,62 @@
+body{
+  background-color: #9266ff;  
+}
+
+.App {
+  text-align: center;
+}
+
+.input{
+  background-color: rgb(27,112,137);
+  outline: none;
+  width: 60%;
+  margin: 8px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 0;
+  color: #fff;
+  font-size: 16px;
+}
+
+.todo{
+  background-color: #3f3160;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+.btn-add{
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  background-color: rgb(202,156,24);
+  font-weight: bold;
+  color: #ffffff;
+  outline: none;
+}
+
+.start-btn{
+  color: #ffffff;
+  width: 12%;
+  background-color: rgb(202,156,24);
+  height: 50px;
+  margin: 20px auto;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  outline: none
+}
+
+.stop-btn{
+  color: #ffffff;
+  width: 12%;
+  background-color: rgb(202,156,24);
+  height: 50px;
+  margin: 20px auto;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  outline: none
+}
